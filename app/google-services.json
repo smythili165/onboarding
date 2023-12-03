@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577621935802",
+    "project_id": "login-signup-47c0e",
+    "storage_bucket": "login-signup-47c0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577621935802:android:533ba9f671486dc7c72483",
+        "android_client_info": {
+          "package_name": "com.example.onboarding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC-_1ZV0iBR5EEQ1Vm4mNBW3g0meNzd9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">onboarding</string>
+    /Headings
+    <string name="heading_one">  </string>
+    <string name="heading_two">Welcome to DocEasy</string>
+    <string name="heading_three">sign in and set up \n your account</string>
+    <string name="heading_fourth">book appointment</string>
+    <string name="heading_fifth">Schedule your appointments with ease</string>
+    <string name="heading_sixth">Receive notifications for scheduled appointments </string>
+
+</resources>
